@@ -2705,6 +2705,9 @@ li.li__margin-10 {
 .swiper-pagination_div .swiper-pagination-base-reviews .swiper-pagination-bullet-active:before{
     display: none;
 }
+.footer_btns .btn_lang.newsletter_btn{
+    width: 100px; 
+}
 @media only screen and (max-width: 991px){
     .talents_brk_tabs.theme-tab .brk-tab,.talents_brk_tabs.theme-tab .brk-tab.active,
      .talents_brk_tabs.theme-tab .brk-tab.active:hover{
